@@ -1,8 +1,0 @@
-{
-  "name": "avam-library-vercel",
-  "private": true,
-  "version": "2.0.0",
-  "scripts": {"dev": "vercel dev"},
-  "engines": {"node": ">=20"},
-  "devDependencies": {"vercel": "latest"}
-}
